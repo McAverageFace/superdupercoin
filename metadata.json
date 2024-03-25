@@ -1,7 +1,7 @@
 {
   "name": "superdupercoin",
   "symbol": "sdc",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/McAverageFace/superdupercoin/main/kaas.png",
   "description": "",
   "extensions": {
     "website": "",
